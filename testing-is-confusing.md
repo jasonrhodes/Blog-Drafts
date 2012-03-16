@@ -1,4 +1,5 @@
-# Adventures / Testing / #1 / I have no clue how to start testing
+## Adventures / Testing / #1 
+# I have no clue how to start testing
 
 We're getting better at this "website" stuff at Johns Hopkins. We use version control. We use a staging server for QA. We use Capistrano recipes to automate builds and deployments. We file bug reports and prioritize them into bugs vs. feature requests. We schedule releases. And nobody ever touches production. 
 
